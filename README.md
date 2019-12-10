@@ -10,7 +10,7 @@ Student view:
 ![alt text](https://github.com/hhshanto/Library-Management-System/blob/master/Student.png)
 
 Faculty view:
-![alt text](https://github.com/hhshanto/Library-Management-System/blob/master/Faculty.png)
+![alt text](https://github.com/hhshanto/Library-Management-System/blob/master/faculty.png)
 
 Librarian view:
 ![alt text](https://github.com/hhshanto/Library-Management-System/blob/master/Admin.png)
