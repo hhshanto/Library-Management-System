@@ -13,4 +13,4 @@ Faculty view:
 ![alt text](https://github.com/hhshanto/Rock-Paper-Scissor-Game/blob/master/img/Faculty.png)
 
 Librarian view:
-![alt text](https://github.com/hhshanto/Rock-Paper-Scissor-Game/blob/master/img/Librarian.png)
+![alt text](https://github.com/hhshanto/Rock-Paper-Scissor-Game/blob/master/img/Admin.png)
