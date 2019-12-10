@@ -1,0 +1,24 @@
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\Framework\bin\Debug\Framework.dll
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\Framework\bin\Debug\Framework.pdb
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\Framework\obj\Debug\Framework.csprojAssemblyReference.cache
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\Framework\obj\Debug\Framework.dll
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\Framework\obj\Debug\Framework.pdb
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\bin\Debug\Framework.dll
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\bin\Debug\Framework.pdb
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\obj\Debug\Framework.csprojAssemblyReference.cache
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\obj\Debug\Framework.dll
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\obj\Debug\Framework.pdb
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\bin\Debug\Framework.dll
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\bin\Debug\Framework.pdb
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\obj\Debug\Framework.csprojAssemblyReference.cache
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\obj\Debug\Framework.dll
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\obj\Debug\Framework.pdb
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\bin\Debug\Framework.dll
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\bin\Debug\Framework.pdb
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\obj\Debug\Framework.csprojAssemblyReference.cache
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\obj\Debug\Framework.dll
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\Framework\obj\Debug\Framework.pdb

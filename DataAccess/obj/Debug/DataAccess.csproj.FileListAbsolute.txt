@@ -1,0 +1,44 @@
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\DataAccess\bin\Debug\Entities.dll
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\DataAccess\bin\Debug\Framework.dll
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\DataAccess\bin\Debug\Entities.pdb
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\DataAccess\bin\Debug\Framework.pdb
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.pdb
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\DataAccess.dll
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\DataAccess.pdb
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\Entities.dll
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\Framework.dll
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\Entities.pdb
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\Framework.pdb
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.dll
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\Entities.dll
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\Framework.dll
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\Entities.pdb
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\Framework.pdb
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.pdb
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\DataAccess.dll
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\DataAccess.pdb
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\Entities.dll
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\Framework.dll
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\Entities.pdb
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\bin\Debug\Framework.pdb
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.dll
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\DataAccess\obj\Debug\DataAccess.pdb

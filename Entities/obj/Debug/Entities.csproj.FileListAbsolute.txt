@@ -1,0 +1,24 @@
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\Entities\bin\Debug\Entities.dll
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\Entities\bin\Debug\Entities.pdb
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\Entities\obj\Debug\Entities.dll
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\LibraryManagementSystem\Entities\obj\Debug\Entities.pdb
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\bin\Debug\Entities.dll
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\bin\Debug\Entities.pdb
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\obj\Debug\Entities.dll
+F:\6thSem\C#\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\obj\Debug\Entities.pdb
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\bin\Debug\Entities.dll
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\bin\Debug\Entities.pdb
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\obj\Debug\Entities.dll
+C:\Users\DOLPHIN\Desktop\CSharp Project\Final\New folder\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\obj\Debug\Entities.pdb
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\bin\Debug\Entities.dll
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\bin\Debug\Entities.pdb
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\obj\Debug\Entities.dll
+F:\6thSem\C#\LibraryManagementSystemFinalShantoEnd\LibraryManagementSystemFinal\LibraryManagementSystem\Entities\obj\Debug\Entities.pdb
