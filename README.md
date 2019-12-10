@@ -1,7 +1,7 @@
 # Library-Management-System
 This a simple library management system. There are three type of users are there, Admin, Teacher and Student. There are also lot of functionality available in the project.
 Login view:
-![alt text](https://github.com/hhshanto/Library-Management-System/blob/master/login.png)
+![alt text](https://github.com/hhshanto/Library-Management-System/blob/master/Login.png)
 
 SignUp view:
 ![alt text](https://github.com/hhshanto/Library-Management-System/blob/master/Signup.png)
