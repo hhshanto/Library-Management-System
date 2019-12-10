@@ -5,17 +5,17 @@ The GUI Part of the project was done by [Niaz](https://github.com/n1az)
 
 
 
-Login view(Hamburger Menu not collapsed):
+Login view:
 ![alt text](https://github.com/hhshanto/Library-Management-System/blob/master/Login.png)
 
-SignUp view(Hamburger Menu not collapsed):
+SignUp view:
 ![alt text](https://github.com/hhshanto/Library-Management-System/blob/master/Signup.png)
 
-Student view(Hamburger Menu not collapsed):
+Student view:
 ![alt text](https://github.com/hhshanto/Library-Management-System/blob/master/Student.png)
 
-Faculty view(Hamburger Menu not collapsed):
+Faculty view:
 ![alt text](https://github.com/hhshanto/Library-Management-System/blob/master/faculty.png)
 
-Librarian view(Hamburger Menu not collapsed):
+Librarian view:
 ![alt text](https://github.com/hhshanto/Library-Management-System/blob/master/Admin.png)
